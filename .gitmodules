@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "TAPseq"]
 	path = TAPseq
 	url = https://github.com/argschwind/tapseq
-	shallow = true
-	registered = true
